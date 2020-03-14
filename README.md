@@ -1,4 +1,4 @@
-![](https://github.com/iftee/laravel-windows-setup/blob/master/cover.png)
+![](https://repository-images.githubusercontent.com/191902560/72069b00-8eae-11e9-866c-c2e4fb8b7a40)
 # Laravel Homestead Setup Guide For Windows 10 (Intel Processors)
 A step by step setup instruction for Laravel Homestead on Windows 10.
 ## 1. Checking Prerequisites
